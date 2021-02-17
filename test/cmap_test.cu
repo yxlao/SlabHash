@@ -18,6 +18,7 @@
 #include <cuda_runtime_api.h>
 #include <gtest/gtest.h>
 #include <stdio.h>
+#include <algorithm>
 #include <cstdlib>
 #include <iostream>
 #include <random>
